@@ -4,3 +4,5 @@ This is the current state of things, I may not update with with better versions 
 My fav VFX (in progress):
 https://user-images.githubusercontent.com/82850040/190186413-4b90d6e5-b6b0-4367-9172-e18e223f1035.mov
 
+Projectile Deflection:
+![Screenshot 2022-07-20 221319](https://user-images.githubusercontent.com/82850040/194621618-01dbde01-dd6d-4085-8a10-428a786a9dfc.png)
