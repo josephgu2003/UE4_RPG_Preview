@@ -1,5 +1,6 @@
 # UE4_RPG_Preview
-This is the current state of things, I may not update with with better versions in case I want to sell my code on the Unreal Marketplace (low chance anyone would be willing to pay for this, but...). Blueprints can't be uploaded. When I have more time to play and record my game, there will be more pictures/gifs here.
+
+This is a limited C++ sample of my personal UE4 (now UE5) game project. The CombatSystem and StoryScene code is the most important in this sample. Blueprints have not been uploaded, I've only uploaded the C++ base code. I have a few screenshots here, and also at https://github.com/josephgu2003/JosephGuHighlights. More modern visualizations are available upon request.
 
 My fav VFX (in progress):
 https://user-images.githubusercontent.com/82850040/190186413-4b90d6e5-b6b0-4367-9172-e18e223f1035.mov
